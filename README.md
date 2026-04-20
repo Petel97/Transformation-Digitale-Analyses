@@ -4,7 +4,7 @@ Analyse de la transformation digitale en Guinée : Études d'impact stratégique
 
 ## À propos du projet
 
-En tant qu'étudiant en Réseaux Informatiques et Télécoms, j'ai réalisé ce projet de recherche pour analyser comment les nouvelles technologies (Cloud, Big Data, IA, Fintech) redéfinissent le paysage économique guinéen.
+En tant qu'étudiant en Réseaux Informatiques et Analyse de Données, j'ai réalisé ce projet de recherche pour analyser comment les nouvelles technologies (Cloud, Big Data, IA, Fintech) redéfinissent le paysage économique guinéen.
 
 Ce dépôt documente la transition numérique de cinq leaders du marché, en mettant l'accent sur le **Diagnostic Stratégique**, les **Indicateurs de Performance (KPI)** et le **Retour sur Investissement (ROI)**.
 
