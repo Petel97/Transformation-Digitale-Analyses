@@ -1,24 +1,15 @@
-Case Study 1: ORANGE MONEY GUINEA
+Cas Étude 1 : ORANGE MONEY GUINÉE
 
-Summary of the statement:
-- Number of potential users (5 million): Calculated from the observation that 70% of Guinea's 13 million people do not have a bank account.
-- Mobile ownership rate (85%): Figure explicitly cited in Orange's initial 2015 assessment.
-- Cost and ROI: Based on historical evolution between 2017 and 2024, showing monthly volume increasing from 5 to 800 billion GNF.
+Résumé de l'énoncé :
+- Nombre d'utilisateurs potentiels (5 millions) : calculé à partir du constat que 70% des 13 millions de Guinéens n'ont pas de compte bancaire.
+- Taux de possession de mobiles (85%) : chiffre explicitement cité dans le constat initial d'Orange en 2015.
+- Coût et ROI : basés sur l'évolution historique entre 2017 et 2024, montrant un volume mensuel passant de 5 à 800 milliards GNF.
 
-Objective: Conduct a launch analysis of the OM project as a consultant for Orange Guinea in 2015. Here is the project evaluation:
+Objectif : réaliser une analyse de lancement du projet OM en tant que consultant pour Orange Guinée en 2015.
 
-| Criteria | Analysis | Score /10 |
-|----------|----------|------------|
-| Market size | 70% without bank account = 5 million people | 9/10 |
-| Available technology | Mobile network covers 75% of territory | 7/10 |
-| Competition | Virgin market in 2015 (0 competitors) | 9/10 |
-| Regulation | BCRG authorization obtained | 8/10 |
-| Launch cost | Estimated between 100 and 150 billion GNF | 6/10 |
-| Expected ROI | Profitable within 3 to 5 years | 8/10 |
+Recommandation finale : ✅ LANCER le projet.
 
-Final recommendation: ✅ LAUNCH the project.
-
-Justification:
-1. A huge market with over 5 million people excluded from the banking system.
-2. High mobile adoption rate (85%) already integrated into daily life.
-3. A strategic first-mover advantage to dominate the market.
+Justifications :
+1. Un marché énorme avec plus de 5 millions de personnes exclues du système bancaire.
+2. Une forte adoption du mobile (85%) déjà intégrée au quotidien.
+3. Un avantage stratégique de premier entrant pour dominer le marché.
