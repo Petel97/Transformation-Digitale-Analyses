@@ -31,7 +31,6 @@ Imaginez que vous tenez une boutique physique. Vous voyez un client entrer, mais
 
 ✅ **LANCER** le projet
 
-☐ LANCER ☐ NE PAS LANCER
 
 ---
 
@@ -48,14 +47,3 @@ L'algorithme analyse les changements de comportement. Par exemple, si un client 
 ### 3. L'optimisation des stocks et de la logistique
 
 En sachant ce que les clients vont probablement acheter dans les 30 prochains jours, Jumia peut **pré-positionner ses stocks** dans ses entrepôts de Conakry. Cela réduit les délais de livraison et évite les ruptures de stock sur les produits à forte demande.
-
----
-
-## Indicateur clé de référence
-
-| Indicateur | Avant Big Data | Après Big Data |
-|------------|----------------|-----------------|
-| Taux d'ouverture des emails | 15% | 58% |
-| Taux de clic (CTR) | 2% | 23% |
-
-**Conclusion :** La personnalisation est indispensable.
